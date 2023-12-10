@@ -1,0 +1,3 @@
+- Hi, there 👋
+- 👀 I’m interested in Data Analysis & Machine Learning
+- 🌱 I’m currently learning Pytorch
