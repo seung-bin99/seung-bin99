@@ -1,7 +1,7 @@
-- Hi, there 👋
-- 👀 I’m interested in Data Analysis & model development.
-- 🌱 I'm a prospective graduate of statistics major
-- 
+# 📌소개
+- 계명대학교 통계학전공 / HuStar의료기기융합전공 졸업 예정입니다.
+- Preparing Data Scientiest · Analyst
+
 # 📜논문 연구 개발 프로젝트
 [한국재활복지공학 2023년도 정기학술대회]
 
