@@ -1,3 +1,3 @@
 - Hi, there 👋
-- 👀 I’m interested in Data Analysis & Machine Learning
-- 🌱 I’m currently learning Pytorch
+- 👀 I’m interested in Data Analysis & model development.
+- 🌱 I'm a prospective graduate of statistics major
