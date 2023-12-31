@@ -3,7 +3,7 @@
 - Preparing Data Scientiest · Analyst
 
 # 🖋 노션
-- [[https://velog.io/@jihukimme]](https://www.notion.so/07c163bc4d874cc1af06759f91481f63)
+- [https://www.notion.so/07c163bc4d874cc1af06759f91481f63]
 
 # 🛠 기술 스택
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">  <img src="https://img.shields.io/badge/Spss-0A9EDC?style=for-the-badge&logo=Spss&logoColor=white"> <img src="https://img.shields.io/badge/SAS-8CAAE6?style=for-the-badge&logo=SAS&logoColor=white"> 
