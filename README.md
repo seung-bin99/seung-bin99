@@ -7,7 +7,7 @@
 - [근거 기반 인지장애 선별을 위한 디지털 콘텐츠 개발]
 
 # 🛠 기술 스택
-<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=html5&logoColor=white">   
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=html5&logoColor=white">   
      
    
  
