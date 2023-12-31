@@ -7,8 +7,14 @@
 - [근거 기반 인지장애 선별을 위한 디지털 콘텐츠 개발]
 
 # 🛠 기술 스택
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=html5&logoColor=white">   
-     
-   
- 
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">     
+<img src="https://img.shields.io/badge/Spss-0A9EDC?style=for-the-badge&logo=Spss&logoColor=white">
+<img src="https://img.shields.io/badge/SAS-8CAAE6?style=for-the-badge&logo=SAS&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+
+
+
   
