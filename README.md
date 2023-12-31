@@ -1,6 +1,6 @@
 # 📌 소개
 - 계명대학교 통계학전공 / HuStar의료기기융합전공 졸업 예정입니다.
-- Preparing Data Scientiest · Analyst
+- Preparing Data Scientiest
 
 # 🖋 노션
 - [https://www.notion.so/07c163bc4d874cc1af06759f91481f63]
