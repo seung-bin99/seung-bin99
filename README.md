@@ -1,5 +1,5 @@
 # 📌 소개
-- 계명대학교 통계학전공 / HuStar의료기기융합전공 졸업
+- 통계학전공 / 의료기기공학전공 학위 취득
 - Preparing Data Scientiest
 
 
