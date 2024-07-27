@@ -1,6 +1,6 @@
 # 📌 소개
 - 통계학전공 / 의료기기공학전공 학사 학위 취득
-- Preparing Data Scientiest
+- Preparing Data Scientiest / Data Analyst
 
 
 # 🛠 기술 스택
