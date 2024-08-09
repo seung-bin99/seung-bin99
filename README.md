@@ -6,14 +6,11 @@
 # 🛠 기술 스택
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">  <img src="https://img.shields.io/badge/Spss-0A9EDC?style=for-the-badge&logo=Spss&logoColor=white"> <img src="https://img.shields.io/badge/SAS-8CAAE6?style=for-the-badge&logo=SAS&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
+
 # 🎞 경력
 - KT 에이블스쿨 5기 DX 컨설턴트 트랙 수료 2024.02.20 ~ 2024.08.07
 - 우리소프트 휴먼케어연구소 현장실습 인턴 2023.07.17 ~ 2023.08.16
 
-
-# 📜 논문 연구 개발 프로젝트
-[한국재활복지공학 2023년도 정기학술대회]
-- [근거 기반 인지장애 선별을 위한 디지털 콘텐츠 개발]
 
 # 🎊 수상 경력
 - 2024년 대구광역시 공공데이터 활용 창업경진대회 우수상
@@ -21,7 +18,9 @@
 - 포스텍 태양광 입찰 경진대회 12위(입상)
 
 
-
+# 📜 논문 연구 개발 프로젝트
+[한국재활복지공학 2023년도 정기학술대회]
+- [근거 기반 인지장애 선별을 위한 디지털 콘텐츠 개발]
 
 
   
