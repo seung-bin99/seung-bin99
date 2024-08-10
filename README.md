@@ -4,7 +4,7 @@
 
 
 # 🛠 기술 스택
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">  <img src="https://img.shields.io/badge/Spss-0A9EDC?style=for-the-badge&logo=Spss&logoColor=white"> <img src="https://img.shields.io/badge/SAS-8CAAE6?style=for-the-badge&logo=SAS&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">  <img src="https://img.shields.io/badge/Spss-0A9EDC?style=for-the-badge&logo=Spss&logoColor=white"> <img src="https://img.shields.io/badge/SAS-8CAAE6?style=for-the-badge&logo=SAS&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
 # 🎞 경력
