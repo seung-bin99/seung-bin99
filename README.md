@@ -32,8 +32,8 @@
 
 ## Projects
 - 반려동물 관련 pdf 문서 기반 RAG 챗봇 개발
-* 2024.05 ~ 2024.06
-https://github.com/seung-bin99/RAG-Project
+  * 2024.05 ~ 2024.06
+  * [project link](https://github.com/seung-bin99/RAG-Project)
   
 project link
 철강 불량 검출 및 분류 인공지능 학습 모델 개발
