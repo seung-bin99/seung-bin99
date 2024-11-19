@@ -30,4 +30,27 @@
 - [근거 기반 인지장애 선별을 위한 디지털 콘텐츠 개발]
 
 
+## Projects
+- 반려동물 관련 pdf 문서 기반 RAG 챗봇 개발
+* 2024.05 ~ 2024.06
+https://github.com/seung-bin99/RAG-Project
+  
+project link
+철강 불량 검출 및 분류 인공지능 학습 모델 개발
+2023.04 ~ 2023.10
+캡스톤 디자인 (졸업과제) - 은상 🏅
+project link
+AI를 활용한 범죄 안전도 예측 및 예방 어플
+2023.07 ~ 2023.08
+제 2회 산업인공지능 프로젝트 경진대회 - 우수상 🏅
+project link
+배리어프리(barrier-free) 스마트 쇼핑 카트 제작
+2023.06 ~ 2023.07
+Hi-MAKER THON 대회 - 우수상 🏅
+project link
+자외선 지수 예측 기술 개발
+2022.06 ~ 2022.08
+2022 날씨 빅데이터 콘테스트
+project link
+
   
