@@ -1,4 +1,4 @@
-# 📌 About Me
+# 📌 About Me  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F승-빈99&count_bg=%2379C83D&title_bg=%23555555&아이콘=&아이콘_컬러=%23E7E7E7&title=히트&에지_플랫=false"/></a>
 - 통계학전공 / 의료기기공학전공 학사 학위 취득
 - Preparing Data Analyst / Data Scientiest
 
