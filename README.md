@@ -13,9 +13,9 @@
 
 
 # 🎊 Awards
-- 2024년 대구광역시 공공데이터 활용 창업경진대회 우수상 [project link](https://github.com/seung-bin99/Competition-project/tree/main/2024%20%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B0%BD%EC%97%85%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20(%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B8%B0%ED%9A%8D))
-- 데이콘 KPI 도출 비즈니스 전략 아이디어 경진대회 1위 [project link](https://github.com/seung-bin99/Competition-project/tree/main/KPI%20%EB%8F%84%EC%B6%9C%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%A0%84%EB%9E%B5%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
-- 포스텍 태양광 입찰 경진대회 12위(참가상) [project link](https://github.com/seung-bin99/Competition-project/tree/main/2023%C2%A0POSTECH%20X%20DERShare%C2%A0OIBC%20%ED%83%9C%EC%96%91%EA%B4%91%20%EB%B0%9C%EC%A0%84%20%EC%9E%85%EC%B0%B0%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
+- 2024년 대구광역시 공공데이터 활용 창업경진대회 우수상 🏅 [project link](https://github.com/seung-bin99/Competition-project/tree/main/2024%20%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B0%BD%EC%97%85%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20(%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B8%B0%ED%9A%8D))
+- 데이콘 KPI 도출 비즈니스 전략 아이디어 경진대회 1위 🏅 [project link](https://github.com/seung-bin99/Competition-project/tree/main/KPI%20%EB%8F%84%EC%B6%9C%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%A0%84%EB%9E%B5%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
+- 포스텍 태양광 입찰 경진대회 12위(참가상) 🏅 [project link](https://github.com/seung-bin99/Competition-project/tree/main/2023%C2%A0POSTECH%20X%20DERShare%C2%A0OIBC%20%ED%83%9C%EC%96%91%EA%B4%91%20%EB%B0%9C%EC%A0%84%20%EC%9E%85%EC%B0%B0%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
 
 
 # 📚 Qualifications
@@ -26,23 +26,22 @@
 
 
 # 📌Projects
-- 반려동물 관련 pdf 문서 기반 RAG 챗봇 개발
-  * 2024.08 ~ 2024.08
-  * [project link](https://github.com/seung-bin99/RAG-Project)
+- RAG 기반 제품 추천 추천시스템 개발
+  * 2024.08 ~ 
+  * [project link](https://github.com/seung-bin99/RAG-Product-Recommendation-system)
 
 - 이커머스 데이터 분석 기반 KPI 선정 및 솔루션 제안 - 1위 🏅
   * 2024.04 ~ 2024.05
   * KPI 도출 비즈니스 전략 아이디어 경진대회
   * [project link](https://github.com/seung-bin99/Competition-project/tree/main/KPI%20%EB%8F%84%EC%B6%9C%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%A0%84%EB%9E%B5%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
 
+- 반려동물 관련 pdf 문서 기반 RAG 챗봇 개발
+  * 2024.08 ~ 2024.08
+  * [project link](https://github.com/seung-bin99/RAG-Project)
+
 - FC온라인 랭커유저 경기 결과 분석 / 예측 모델 개발
   * 2024.10 ~ 2024.10
   * [project link](https://github.com/seung-bin99/Game-data/tree/main/Nexon%20FC%20Online%20Ranker%20match%20result)
-  
-- 반려동물 시설 정보 통합 플랫폼 기획 - 우수상 🏅
-  * 2024.04 ~ 2024.06
-  * 2024 대구광역시 공공데이터 활용 창업경진대회
-  * [project link](https://github.com/seung-bin99/Competition-project/tree/main/2024%20%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B0%BD%EC%97%85%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20(%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B8%B0%ED%9A%8D))
 
 - 교통사고 위험도 예측 모델 개발
   * 2023.11 ~ 2023.12
