@@ -13,8 +13,8 @@
 
 
 # 🎊 Awards
-- 2024년 대구광역시 공공데이터 활용 창업경진대회 우수상
-- 데이콘 KPI 도출 비즈니스 전략 아이디어 경진대회 1위
+- 2024년 대구광역시 공공데이터 활용 창업경진대회 우수상 [project link](https://github.com/seung-bin99/Competition-project/tree/main/2024%20%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%B0%BD%EC%97%85%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20(%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B8%B0%ED%9A%8D))
+- 데이콘 KPI 도출 비즈니스 전략 아이디어 경진대회 1위 [project link](https://github.com/seung-bin99/Competition-project/tree/main/KPI%20%EB%8F%84%EC%B6%9C%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%A0%84%EB%9E%B5%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
 - 포스텍 태양광 입찰 경진대회 12위(참가상)
 
 
