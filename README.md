@@ -19,8 +19,10 @@
 
 
 # 📚 Qualifications
+- 빅데이터분석기사
+- SQLD(SQL 개발자)
 - GAIQ(Google Analytics Individual Qualification)
-- ADsP(데이터분석준전문가)
+- ADsP(데이터분석 준전문가)
 - 사회조사분석사 2급
 - 컴퓨터활용능력 1급
 
