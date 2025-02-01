@@ -29,7 +29,7 @@
 
 # 📌Projects
 - RAG 기반 제품 추천 추천시스템 개발
-  * 2024.08 ~ 
+  * 2024.08 ~ 2024.12
   * [project link](https://github.com/seung-bin99/RAG-Product-Recommendation-system)
 
 - 이커머스 데이터 분석 기반 KPI 선정 및 솔루션 제안 - 1위 🏅
