@@ -12,10 +12,7 @@
 
 
 # 🤝 Collaboration Tools
-<!-- Slack -->
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-<!-- Confluence -->
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 
